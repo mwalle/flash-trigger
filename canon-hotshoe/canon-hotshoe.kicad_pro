@@ -329,13 +329,11 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "max-mill"
-    ],
+    "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "generic-hotshoe.kicad_pro",
+    "filename": "canon-hotshoe.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -369,8 +367,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "generic-hotshoe.step",
-      "vrml": ""
+      "step": "canon-hotshoe.step",
+      "vrml": "generic-hotshoe.wrl"
     },
     "page_layout_descr_file": ""
   },
