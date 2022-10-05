@@ -503,8 +503,8 @@
     (at 153.035 110.222797 180)
     (descr "Open Source Hardware Logo")
     (tags "Logo OSHW")
-    (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+    (attr board_only exclude_from_pos_files exclude_from_bom)
+    (fp_text reference "" (at 0 0) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2b948e3d-446c-41b2-bd7f-823d583b5354)
     )
