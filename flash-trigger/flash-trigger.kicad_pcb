@@ -688,7 +688,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2628c108-6560-4393-ac8e-14c9db29565b)
     )
-    (fp_text value "BD49KxxG" (at 0 -2.5 180) (layer "B.Fab")
+    (fp_text value "BD49K27G" (at 0 -2.5 180) (layer "B.Fab")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 6ac6f3ed-5b4c-44ab-96bb-6d55ce576733)
     )

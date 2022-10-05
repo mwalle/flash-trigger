@@ -2321,7 +2321,7 @@
     (property "Reference" "U2" (id 0) (at 153.035 129.54 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "BD49KxxG" (id 1) (at 160.02 143.51 0)
+    (property "Value" "BD49K27G" (id 1) (at 160.02 143.51 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (id 2) (at 149.225 149.225 0)
@@ -2666,7 +2666,7 @@
       (reference "U1") (unit 3) (value "74LV123") (footprint "Package_SO:SSOP-16_4.4x5.2mm_P0.65mm")
     )
     (path "/d8838f96-bcbf-4cb1-9b90-0640aa8aa469"
-      (reference "U2") (unit 1) (value "BD49KxxG") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
+      (reference "U2") (unit 1) (value "BD49K27G") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
     )
   )
 )
