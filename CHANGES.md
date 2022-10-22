@@ -3,6 +3,10 @@
 Format: revX.Y, X denotes a PCB change (and possible BOM change). Y just
 denotes a BOM change.
 
+## rev2.1
+ - Change C2 to 100uF.
+ - Use correct part name for U2.
+
 ## rev2.0
  - Fix pre-flash detection.
  - Change from battery bad to battery good detection.
