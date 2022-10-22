@@ -109,7 +109,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4e894a05-4036-476c-bcb3-b0b45096009d)
     )
-    (fp_text value "Bat Test" (at 0 2.6 90) (layer "F.Fab")
+    (fp_text value "PTS810" (at 0 2.6 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cd67412e-fdd4-410f-a564-428235477d39)
     )

@@ -2468,7 +2468,7 @@
     (in_bom yes) (on_board yes)
     (uuid f9b8f20f-45f6-4ac3-a78b-1472384cf738)
     (property "Reference" "SW2" (id 0) (at 125.095 125.73 0))
-    (property "Value" "Bat Test" (id 1) (at 130.175 122.555 0))
+    (property "Value" "PTS810" (id 1) (at 130.175 122.555 0))
     (property "Footprint" "Button_Switch_CKComponents:SW_SPST_PTS810" (id 2) (at 130.175 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2654,7 +2654,7 @@
       (reference "SW1") (unit 1) (value "PCM12") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")
     )
     (path "/f9b8f20f-45f6-4ac3-a78b-1472384cf738"
-      (reference "SW2") (unit 1) (value "Bat Test") (footprint "Button_Switch_CKComponents:SW_SPST_PTS810")
+      (reference "SW2") (unit 1) (value "PTS810") (footprint "Button_Switch_CKComponents:SW_SPST_PTS810")
     )
     (path "/ede317ec-a3ef-47a7-b8e2-075ff55a0a1f"
       (reference "U1") (unit 1) (value "74LV123") (footprint "Package_SO:SSOP-16_4.4x5.2mm_P0.65mm")
