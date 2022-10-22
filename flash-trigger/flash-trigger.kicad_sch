@@ -1452,7 +1452,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 17c5649d-54d5-4129-ac8d-510bee8cfdc9)
   )
-  (text "Low battery indication" (at 113.665 118.745 0)
+  (text "Battery good indication" (at 113.665 118.745 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1f0b006f-deff-4d9a-b1d5-49ac16294af9)
   )
