@@ -1350,7 +1350,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d738cf80-bbfc-44a1-bc9c-2c0a10687bfe)
     )
-    (fp_text value "47u" (at 0 -1.68) (layer "B.Fab")
+    (fp_text value "100u" (at 0 -1.68) (layer "B.Fab")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 46303aac-c793-4383-808e-eff6cafbfc1d)
     )
