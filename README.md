@@ -1,14 +1,21 @@
 # Tiny LED Trigger
 
-Your simple, cheap and open LED flash trigger.
+<img src="/images/flash-trigger1.jpg" align="center">
+
+Your simple, cheap and open LED flash trigger for your underwater strobe.
 
 ## Features
+
+<img src="/images/oshw-de00130.svg" align="right" width="150">
 
 The flash trigger provides the following features:
 
 - Reliably triggers your optical underwater strobe in manual mode.
 - Converts any trigger pulse from your camera to a constant 100µs LED
   pulse.
+- Very bright pulse because the LED is driven with a very high current
+  (most LEDs have a peak forward current of 100mA-150mA specified for
+  100µs for a 1/10 duty cycle).
 - Pre-flash supression mode. Useful if your camera has a pre-flash pulse on
   the hot shoe pin.
 - Powered by just one CR2032 coin cell.
@@ -17,8 +24,15 @@ The flash trigger provides the following features:
 - Supports up to two LEDs in parallel.
 - Battery good indication.
 - Extremely small.
-- Open Hardware, schematics and layout are free for everyone.
+- [Open Hardware](https://certification.oshwa.org/de000130.html),
+  schematics and layout are free for everyone.
 
+## Pictures
+
+<p>
+<img src="/images/flash-trigger2.jpg" width="300">
+<img src="/images/flash-trigger3.jpg" width="300">
+</p>
 
 ## Schematics
 The LED trigger consists of:
@@ -104,6 +118,11 @@ work with a given coin cell.
 | BT1 | 1 | CR2032 Coin Cell Holder | - |
 | J1, J2 | 2 | MillMax 0550 Pin Receptable | - |
 | J3, J4 | 2 | MillMax 0508 PCB Pin | - |
+
+## Kits and PCBs
+
+If you need a PCB, a kit or maybe an assembled board, contact me at
+<flash-trigger@walle.cc>.
 
 ## License
 
