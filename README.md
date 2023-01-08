@@ -30,11 +30,11 @@ The flash trigger provides the following features:
 ## Pictures
 
 <p>
-<img src="/images/flash-trigger2.jpg" width="300">
-<img src="/images/flash-trigger3.jpg" width="300">
-<img src="/images/flash-trigger4.jpg" width="300">
-<img src="/images/flash-trigger5.jpg" width="300">
-<img src="/images/flash-trigger6.jpg" width="300">
+<img src="/images/flash-trigger2.jpg" width="266">
+<img src="/images/flash-trigger3.jpg" width="266">
+<img src="/images/flash-trigger4.jpg" width="266">
+<img src="/images/flash-trigger5.jpg" width="266">
+<img src="/images/flash-trigger6.jpg" width="266">
 </p>
 
 ## Schematics
